@@ -4,7 +4,7 @@
 
 This portfolio is designed to give recruiters and developers a **clear, quick, and impactful overview** of who I am, what I know, and what I build.
 
-🔗 **LIVE PORTFOLIO:** https://hazracodegit.github.io  
+🔗 **LIVE PORTFOLIO:** https://hazracodegit.github.io/Personal-Portfolio-Website  
 🔗 **GITHUB:** https://github.com/hazracodegit  
 🔗 **LINKEDIN:** https://www.linkedin.com/in/hazra-bee-dudekula-95245432a/ 
 
