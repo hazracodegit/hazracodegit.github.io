@@ -4,8 +4,8 @@
 
 This portfolio is designed to give recruiters and developers a **clear, quick, and impactful overview** of who I am, what I know, and what I build.
 
-🔗 **LIVE PORTFOLIO:** https://yourusername.github.io  
-🔗 **GITHUB:** https://github.com/yourusername  
+🔗 **LIVE PORTFOLIO:** https://hazracodegit.github.io  
+🔗 **GITHUB:** https://github.com/hazracodegit  
 🔗 **LINKEDIN:** https://linkedin.com/in/yourprofile  
 
 ---
