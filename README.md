@@ -6,7 +6,7 @@ This portfolio is designed to give recruiters and developers a **clear, quick, a
 
 🔗 **LIVE PORTFOLIO:** https://hazracodegit.github.io  
 🔗 **GITHUB:** https://github.com/hazracodegit  
-🔗 **LINKEDIN:** https://linkedin.com/in/yourprofile  
+🔗 **LINKEDIN:** https://www.linkedin.com/in/hazra-bee-dudekula-95245432a/ 
 
 ---
 
@@ -54,17 +54,13 @@ This portfolio website includes:
 A clean, responsive portfolio website built to showcase my technical profile and projects.
 
 **🔧 Technologies:** HTML, CSS, JavaScript  
-**🌍 Live URL:** https://yourusername.github.io  
-**📂 Source Code:** https://github.com/yourusername/your-repo-name  
+**🌍 Live URL:** https://hazracodegit.github.io/Personal-Portfolio-Website
+**📂 Source Code:** https://github.com/hazracodegit/Personal-Portfolio-Website 
 
 ---
 
 
-## 📸 WEBSITE PREVIEW
 
-📷 Screenshots of the portfolio website can be added here to provide a visual overview.
-
----
 
 ## 📄 RESUME
 
@@ -76,9 +72,9 @@ A clean, responsive portfolio website built to showcase my technical profile and
 
 I am actively seeking **learning opportunities, internships, and entry-level software development roles**.
 
-📧 **Email:** yourname@email.com  
+📧 **Email:** dudekulahazrabee9989@gmail.com 
 💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
-💻 **GitHub:** https://github.com/yourusername  
+💻 **GitHub:** https://www.linkedin.com/in/hazra-bee-dudekula-95245432a/  
 
 
 
